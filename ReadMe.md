@@ -11,3 +11,4 @@ git remote add origin http://github.com/kangkai115/xxx  增加origin
 git remote rm origin                                    删除origin
 git push origin master                       
 
+
