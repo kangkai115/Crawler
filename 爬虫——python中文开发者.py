@@ -1,6 +1,7 @@
 import requests
 from bs4 import BeautifulSoup
 
+
 page=input('输入想导出前多少页')
 url='http://www.pythontab.com/html/pythonhexinbiancheng/'
 class GetText():#获得所有页面链接
